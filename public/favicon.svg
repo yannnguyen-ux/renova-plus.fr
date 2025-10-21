@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Four-pointed star/diamond shape positioned top-right -->
+  <path d="M300 20 L320 60 L340 40 L320 80 L300 60 L280 80 L300 40 L280 60 Z" fill="black"/>
+  
+  <!-- Left house section with angular roof -->
+  <path d="M40 120 L120 80 L200 120 L200 340 L40 340 Z" fill="black"/>
+  
+  <!-- Right house section with angular roof -->
+  <path d="M200 160 L280 120 L360 160 L360 340 L200 340 Z" fill="black"/>
+  
+  <!-- Central dividing line/wall -->
+  <rect x="200" y="160" width="40" height="180" fill="black"/>
+</svg>
